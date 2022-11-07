@@ -1,0 +1,15 @@
+{
+    "bookstore": {
+        "book": [
+            {
+                
+                "title":"Everyday Italian",
+                "publisher": "Giada De Laurentiis",
+                "cover": "tapa blanda",
+                "price": "30.00"
+            }
+           
+            
+        ]
+    }
+}
