@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <nom>Ronne</nom>
+        <surname>avila</surname>
+        <email>bsyteve7@gmail.com</email>
+        <dni>876482d</dni>
+    </student>
+    <student>
+        <nom>karen</nom>
+        <surname>gonzales</surname>
+        <email>karen@gmail.com</email>
+        <dni>2187628d</dni>
+    </student>
+    <student>
+        <nom>adria</nom>
+        <surname>fernandez</surname>
+        <email>adrian@gmail.com</email>
+        <dni>273622232l</dni>
+    </student>
+    <student>
+        <nom>roger</nom>
+        <surname>martinez</surname>
+        <email>roger@gmail.com</email>
+        <dni>2167362l</dni>
+    </student>
+    <student>
+        <nom>laia</nom>
+        <surname>martines</surname>
+        <email>laia@gmail.com</email>
+        <dni>2323232ñ</dni>
+    </student>
+</students>
