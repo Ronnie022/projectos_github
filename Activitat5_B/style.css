@@ -1,0 +1,18 @@
+caption {
+    color: blue;
+    text-align: center;
+    }
+table {
+    text-align: center;
+}
+table,th, td {
+padding: 0.5em;
+border: 1px solid black;    
+border-collapse: collapse;
+width: 49%;
+position: static;
+margin-left: 25%;
+}
+th { 
+    background-color: grey;
+}
