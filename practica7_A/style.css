@@ -1,0 +1,52 @@
+div_container{
+    border: 3px solid green;
+    display: flex;
+
+    
+    }
+
+    .div_item1{
+        background-color: rgb(181, 181, 232);
+        border: 3px solid rgb(126, 126, 188);
+        margin: 20px;
+        padding: 120px;
+        width: 160px;
+        height: 120px;
+        margin-top: 40px;  
+        position: relative;   
+        
+    }
+    .div_item2{
+        background-color: rgb(247, 231, 54);
+        border: 3px solid rgb(138, 163, 50);
+        margin: -80px;
+        padding: 40px;
+        width: 40px;
+        height: 40px;
+        margin-top: -100px;
+        position: absolute;
+        
+    }   
+    .div_item3{
+        background-color: rgb(234, 75, 75);
+        border: 3px solid rgb(109, 24, 24);
+        margin: 90px;
+        padding: 120px;
+        width: 160px;
+        height: 120px;
+        margin-top: 200px;
+        position: absolute;
+        
+    }
+    .div_item4{
+        background-color: rgb(31, 197, 131);
+        border: 3px solid rgb(48, 152, 16);
+        margin: 100px;
+        padding: 40px;
+        width: 40px;
+        height: 40px;
+        margin-top: 60px;
+        position: absolute;
+        
+    }
+    
