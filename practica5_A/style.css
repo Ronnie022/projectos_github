@@ -1,0 +1,13 @@
+table,td,th {
+    padding: 0.5em;
+    border: 1px solid black;
+    border-collapse: collapse;
+    position: static;
+    margin-left: 25%;
+    font-size: 15px;
+    width: 49%;
+    font-family: sans-serif;    
+  }
+  th{
+    background: rgb(122, 115, 115);
+  }
