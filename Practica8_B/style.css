@@ -1,0 +1,6 @@
+.div {
+display: flex;    
+border: 3px solid white;
+flex-direction: row;
+text-align: center;
+}
