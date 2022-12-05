@@ -1,8 +1,6 @@
 div_container {
 border: 3px solid white;
 display: flex;
-
-
 }
 
 .div_item1{
@@ -17,6 +15,7 @@ position: absolute;
 top: 40px;
 left: 20px;
 }
+
 .div_item2{
 background-color: blue;
 border: 3px solid blue;
@@ -29,6 +28,7 @@ position: absolute;
 left: 20px;
 top: 20px;
 }
+
 .div_item3{
     background-color: green;
     border: 3px solid green;
@@ -38,10 +38,9 @@ top: 20px;
     height: 120px;
     margin-top: 140px;
     position: absolute;
-    left: 100px;
-    
-    
+    left: 100px; 
 }
+
 .div_item4{
     background-color: red;
     border: 3px solid red;
@@ -53,5 +52,4 @@ top: 20px;
     position: absolute;
     right: 20px;
     bottom: 20px;
-    
 }
