@@ -1,0 +1,64 @@
+.cabezera2{
+    margin-left: 75%;
+    margin-top: -2%;
+
+}
+
+.cabezera1{
+    margin-left: 4%;
+}
+
+.logo{
+    height: 110px;
+    margin-left: 37%;
+    margin-top: 2%;
+}
+
+.textog{    
+    margin-right: 4%;
+    font-size: 16px;
+    color: black;
+}
+
+.textoi{
+    font-size: 16px;
+    margin-right: 4%;
+    color: black;
+
+}
+
+.cuadraditos{
+    height: 20px;
+    margin-right: 4%;
+}
+
+.iniciar{
+    border-radius: 4px;
+    border: none;
+    background-color: #007DF9;
+    height: 30px;
+    width: 110px;
+    font-size: 16px;
+    color: aliceblue;
+}
+
+.sobreg{
+    margin-right: 2%;
+    color: black;
+}
+.tienda{
+    color: black;
+}
+
+.buscar{
+    margin-left: 40%;
+    padding: 5%;
+    width: 640px;
+    margin-top:-3%;
+}
+.botones{
+    margin-left: 41%;
+    margin-top: -4%;
+
+}
+
